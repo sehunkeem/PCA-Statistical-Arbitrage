@@ -1,6 +1,6 @@
 # Implementation of Avellaneda & Lee’s PCA Statistical Arbitrage Strategy
 
-The repository contains an implementation for the paper,
+The repository contains an implementation of the paper,
 *“Statistical Arbitrage in the U.S. Equities Market”* by M. Avellaneda and J. Lee (2008).
 
 It contains a full pipeline - from raw data ingestion to signal generation, hedge construction, portfolio execution, and performance evaluation - based on the PCA statistical arbitrage methodology.
